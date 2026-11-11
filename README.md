@@ -4,6 +4,10 @@ An end-to-end data analytics project focused on understanding customer churn pat
 
 The project combines Python, SQL, Machine Learning, and Power BI to transform customer data into meaningful business insights and actionable retention recommendations.
 
+## Dashboard Preview
+
+![Customer Churn Dashboard](Images/Final%20Dashboard%20.png)
+
 ## Project Objectives
 
 - Analyze customer churn behavior and identify important churn patterns.
@@ -61,7 +65,13 @@ Two classification models were evaluated:
 
 Logistic Regression achieved the higher ROC-AUC score among the two evaluated models.
 
-A threshold adjustment to 0.30 increased Logistic Regression recall to 75.40%, with a precision of 51.93%.
+### Threshold Adjustment
+
+Adjusting the Logistic Regression classification threshold to 0.30 produced:
+
+- Recall: 75.40%
+- Precision: 51.93%
+- F1-Score: 61.50%
 
 Recall was an important metric because identifying more customers at risk of leaving can help businesses plan targeted retention activities.
 
@@ -75,7 +85,9 @@ Recall was an important metric because identifying more customers at risk of lea
 
 ## Project Report
 
-The complete project report is available in the `Report` folder.
+The complete project report is available here:
+
+[View the Final Project Report](Reports/Day16_Final%20Report%20%26%20Portfolio%20Preparation.pdf)
 
 ## Author
 
@@ -113,6 +125,6 @@ Computer Science Graduate | Aspiring Data Analyst / Data Scientist
 
 - [Day 16 – Final Report & Portfolio Preparation](Reports/Day16_Final%20Report%20%26%20Portfolio%20Preparation.pdf)
 
-### Dashboard Preview
+## Conclusion
 
-![Customer Churn Dashboard](Images/Final%20Dashboard%20.png)
+This project demonstrates an end-to-end customer churn analysis workflow, combining data analysis, SQL, machine learning, and business intelligence to identify churn patterns and support data-driven customer retention strategies.
