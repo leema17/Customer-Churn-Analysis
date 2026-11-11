@@ -82,3 +82,37 @@ The complete project report is available in the `Report` folder.
 Leema Fazl Mohammad
 
 Computer Science Graduate | Aspiring Data Analyst / Data Scientist
+
+## Project Files
+
+### Python Notebooks
+
+- [Day 01 – Project Setup](Notebooks/Day01_Project%20Setup.ipynb)
+- [Day 02 – Exploratory Data Analysis](Notebooks/Day02_Exploratory%20Data%20Analysis.ipynb)
+- [Day 03 – Data Cleaning & Preparation](Notebooks/Day03_Data%20Cleaning%20%26%20Preparation.ipynb)
+- [Day 04 – Customer Profile & Service Analysis](Notebooks/Day04_Customer%20Profile%20%26%20Service%20Analysis.ipynb)
+- [Day 05 – Deeper Customer & Service Analysis](Notebooks/Day05_Deeper%20Customer%20%26%20Service%20Analysis.ipynb)
+- [Day 06 – Numerical Analysis & Visualization](Notebooks/Day06_Numerical%20Analysis%20%26%20Visualization.ipynb)
+- [Day 07 – Data Preparation & Encoding](Notebooks/Day07_Data%20Preparation%20%26%20Encoding.ipynb)
+- [Day 08 – Train-Test Split & Preparing for Machine Learning](Notebooks/Day08_TrainTest%20Split%20%26%20Preparing%20for%20Machine%20Learning.ipynb)
+- [Day 09 – Classification & Logistic Regression](Notebooks/Day09_Classification%20%26%20Logistic%20Regression.ipynb)
+- [Day 10 – Model Evaluation & Improvement](Notebooks/Day10_Model%20Evaluation%20%26%20Improvement.ipynb)
+- [Day 14 – Machine Learning Model Comparison](Notebooks/Day14_Machine%20Learning%20Model%20Comparison.ipynb)
+
+### SQL Analysis
+
+- [Day 11 – SQL Basics](SQL/Day11_SQL%20Basics.sql)
+- [Day 12 – Advanced SQL Analysis](SQL/Day12_Advanced%20SQL%20Analysis.sql)
+- [Day 13 – SQL JOIN](SQL/Day13_SQL%20JOIN.sql)
+
+### Power BI Dashboard
+
+- [Day 15 – Customer Churn Analysis Dashboard](PowerBI/Day15_Customer_Churn_Analysis.pbix)
+
+### Final Report
+
+- [Day 16 – Final Report & Portfolio Preparation](Reports/Day16_Final%20Report%20%26%20Portfolio%20Preparation.pdf)
+
+### Dashboard Preview
+
+![Customer Churn Dashboard](Images/Final%20Dashboard%20.png)
